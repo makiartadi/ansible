@@ -5,5 +5,5 @@ yumrepo_path: /opt/yumrepo
 
 cci_username: makiartadi
 cci_token: 379209946c5a83307dfa595c9a2f66604f0bb1ed 
-cci_project: ping-test
+cci_project: pingtest
 cci_branch: master
