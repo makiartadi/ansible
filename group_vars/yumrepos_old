@@ -3,7 +3,7 @@
 yumrepo_fqdn: deployserver-cecille
 yumrepo_path: /opt/yumrepo
 
-cci_username: makiartadi 
-cci_token: 379209946c5a83307dfa595c9a2f66604f0bb1ed 
+cci_username: linuxdojo-training
+cci_token: 92dc1185d521273ca749a9416531b5f856e41399
 cci_project: pingtest
 cci_branch: master
